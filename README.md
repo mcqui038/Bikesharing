@@ -16,7 +16,7 @@ This project focuses on bikesharing data from New York in the month of August. B
 - Trips by Weekday for Each Hour
 ![Bikesharing](/Trips%20by%20Weekday%20for%20Each%20Hour.png)
 - Trips by Gender (Weekday per Hour)
-![Bikesharing](/Trips%20by%20Gender%20Weekday%20per%20Hour.png)
+![Bikesharing](/Trips%20by%20Gender%20Weekday%20Per%20Hour.png)
 - Trips by Gender by Weekday
 ![Bikesharing](/Trips%20by%20Gender%20by%20Weekday.png)
 
