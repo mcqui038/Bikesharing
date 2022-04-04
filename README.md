@@ -5,7 +5,7 @@ This project focuses on bikesharing data from New York in the month of August. B
 
 ## Results
 - Total Number of Rides
-(/Number%20of%20Rides%20by%20Usertype.png)
+![Bikesharing](/Number%20of%20Rides%20by%20Usertype.png)
 - Total Number of Rides by User Type
 - Checkout Times for Users
 - Checkout Times by Gender
