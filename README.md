@@ -1,5 +1,7 @@
 # Bikesharing
 
+[link to Bikesharing dashboard](https://public.tableau.com/app/profile/kelly.mcquillan/viz/Bikesharing_Challenge_16490263497700/BikesharingStoryboard?publish=yes)
+
 ## Overview
 This project focuses on bikesharing data from New York in the month of August. By analyzing this data, we are able to plan for a new bikesharing business in Des Moines, Iowa.
 
